@@ -4,7 +4,7 @@ logic clk;
 logic rst;
 
 // Instantiation
-datapath dut (
+Datapath dut (
     .clk(clk),
     .rst(rst)
 );
